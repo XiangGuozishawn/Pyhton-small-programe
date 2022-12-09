@@ -1,4 +1,4 @@
-# Pyhton-snall-programe
+# Pyhton-small_programe
 一些杂七杂八的python小项目
 
 ## 康威生命游戏
