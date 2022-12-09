@@ -8,4 +8,4 @@
 任何已经死亡的网格，如果周围邻居存活数为3个，将重新复活。
 
 使用方法:
-'''python Conway_game_of_life.py'''
+```python Conway_game_of_life.py```
