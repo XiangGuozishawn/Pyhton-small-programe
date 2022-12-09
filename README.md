@@ -10,3 +10,13 @@
 
 使用方法:
 ```python Conway_game_of_life.py```
+***
+## 兽语译者
+由吾爱破解论坛大佬制作
+使用方法:
+先实例化一个对象
+```demo=HowlingAnimalsTranslator()```
+加密:
+```demo.convert()```
+解密:
+```demo.deConvert```
